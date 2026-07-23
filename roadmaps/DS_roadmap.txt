@@ -1,0 +1,132 @@
+Roadmap for: Data Science Roadmap Setp by step
+
+**Data Science Roadmap: A Step-by-Step Guide to Getting Started**
+
+**Step 1: Foundations (Estimated Time: 2-3 weeks)**
+
+* **Learning Objectives:**
+	+ Understand the basics of data science
+	+ Familiarize yourself with programming languages and tools
+	+ Learn to work with data
+* **Recommended Resources:**
+	+ Online courses:
+		- Codecademy's Introduction to Python
+		- Coursera's Data Science Specialization (Weeks 1-3)
+	+ Books:
+		- "Python Crash Course" by Eric Matthes
+		- "Data Science for Dummies" by Lillian Pierson
+* **Action Plan:**
+	1. Complete Codecademy's Introduction to Python course
+	2. Watch the first three weeks of Coursera's Data Science Specialization
+	3. Read "Python Crash Course" and "Data Science for Dummies"
+
+**Step 2: Programming Fundamentals (Estimated Time: 4-6 weeks)**
+
+* **Learning Objectives:**
+	+ Master Python programming
+	+ Learn data structures and algorithms
+	+ Practice coding with exercises and projects
+* **Recommended Resources:**
+	+ Online courses:
+		- Python.org's official tutorials
+		- Coursera's Python for Everybody (Specialization)
+	+ Books:
+		- "Automate the Boring Stuff with Python" by Al Sweigart
+		- "Python for Data Analysis" by Wes McKinney
+* **Action Plan:**
+	1. Complete Python.org's official tutorials
+	2. Finish Coursera's Python for Everybody specialization
+	3. Read "Automate the Boring Stuff with Python" and "Python for Data Analysis"
+	4. Practice coding with exercises and projects from online resources (e.g., LeetCode, Project Euler)
+
+**Step 3: Data Science Fundamentals (Estimated Time: 4-6 weeks)**
+
+* **Learning Objectives:**
+	+ Learn data preprocessing and cleaning
+	+ Understand data visualization and statistical analysis
+	+ Familiarize yourself with popular data science libraries
+* **Recommended Resources:**
+	+ Online courses:
+		- Coursera's Data Science Specialization (Weeks 4-6)
+		- edX's Data Science Essentials
+	+ Books:
+		- "Data Preprocessing" by Dr. Dheeru Dua
+		- "Visualize This: The FlowingData Guide to Design, Visualization, and Statistics" by Nathan Yau
+* **Action Plan:**
+	1. Complete the remaining weeks of Coursera's Data Science Specialization
+	2. Watch edX's Data Science Essentials course
+	3. Read "Data Preprocessing" and "Visualize This"
+	4. Practice data preprocessing and visualization with exercises and projects
+
+**Step 4: Specialization (Estimated Time: 8-12 weeks)**
+
+* **Learning Objectives:**
+	+ Choose a specialization area (e.g., machine learning, natural language processing, data visualization)
+	+ Learn advanced techniques and tools specific to your chosen area
+	+ Develop a portfolio of projects and applications
+* **Recommended Resources:**
+	+ Online courses:
+		- Coursera's Machine Learning Specialization
+		- edX's Natural Language Processing with Deep Learning
+		- DataCamp's Data Visualization with Python
+	+ Books:
+		- "Pattern Recognition and Machine Learning" by Christopher Bishop
+		- "Natural Language Processing (almost) from Scratch" by Collobert et al.
+		- "Data Visualization: A Handbook for Data Driven Design" by Andy Kirk
+* **Action Plan:**
+	1. Choose a specialization area and relevant courses
+	2. Complete the chosen courses and read relevant books
+	3. Develop a portfolio of projects and applications in your chosen area
+	4. Practice and apply your skills to real-world problems
+
+**Step 5: Advanced Learning (Estimated Time: 4-6 weeks)**
+
+* **Learning Objectives:**
+	+ Learn advanced techniques and tools in your chosen specialization area
+	+ Stay up-to-date with the latest developments and trends in data science
+	+ Network with professionals and peers in the field
+* **Recommended Resources:**
+	+ Online courses:
+		- Coursera's Advanced Machine Learning Specialization
+		- edX's Advanced Natural Language Processing
+		- DataCamp's Advanced Data Visualization with Python
+	+ Conferences and meetups:
+		- Attend data science conferences and meetups
+		- Participate in online forums and discussions
+* **Action Plan:**
+	1. Complete advanced courses in your chosen specialization area
+	2. Attend conferences and meetups
+	3. Participate in online forums and discussions
+	4. Read research papers and stay up-to-date with the latest developments in data science
+
+**Step 6: Capstone Project (Estimated Time: 8-12 weeks)**
+
+* **Learning Objectives:**
+	+ Apply your skills and knowledge to a real-world project
+	+ Develop a comprehensive understanding of data science concepts and techniques
+	+ Showcase your skills to potential employers and peers
+* **Recommended Resources:**
+	+ Online courses:
+		- Coursera's Capstone Project in Data Science
+		- edX's Data Science Capstone
+	+ Books:
+		- "Data Science for Business" by Foster Provost and Tom Fawcett
+		- "Visualize This: The FlowingData Guide to Design, Visualization, and Statistics" by Nathan Yau
+* **Action Plan:**
+	1. Choose a capstone project idea and scope
+	2. Complete the capstone project and write a report
+	3. Showcase your project on platforms like Kaggle or GitHub
+	4. Share your project with potential employers and peers
+
+**Timeline:**
+
+* Step 1: 2-3 weeks
+* Step 2: 4-6 weeks
+* Step 3: 4-6 weeks
+* Step 4: 8-12 weeks
+* Step 5: 4-6 weeks
+* Step 6: 8-12 weeks
+
+**Total Estimated Time:** 30-45 weeks (approximately 6-9 months)
+
+Remember, this roadmap is just a suggestion, and you should adjust the pace and content to fit your learning style and goals. Good luck on your data science journey!
